@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-**Senior Software Engineer** | 8+ Years of Experience | Technical Lead
+**Senior Software Engineer** | 10+ Years of Experience | Technical Lead
 
-I'm a seasoned software engineer with **8+ years of experience** building highly distributed, scalable, secured, and performant systems from scratch. I've led teams as a **Technical Lead for 2 years** and specialize in solving complex problems in **supply chain optimization**, **payment systems**, and **big data engineering**.
+I'm a seasoned software engineer with **10+ years of experience** building highly distributed, scalable, secured, and performant systems from scratch. I've led teams as a **Technical Lead** and specialize in solving complex problems in **supply chain optimization**, **payment systems**, and **big data engineering**.
 
 📍 Based in Bengaluru, India
 
@@ -19,6 +19,7 @@ I'm a seasoned software engineer with **8+ years of experience** building highly
 - ⚡ Designing **high-throughput payment systems** processing **250 TPS** with **<50ms latency**
 - 📊 Engineering **big data pipelines** handling **1 billion rows** in under 5 minutes
 - 🤖 Developing **AI-powered semantic search** systems using vector embeddings
+- 🌱 Exploring and building **autonomous agents** and AI-driven systems
 
 ## 🛠️ Tech Stack
 
@@ -144,6 +145,7 @@ Data migration utilities and tools for various use cases.
 - **Payment Systems** - Real-time transaction processing with high availability
 - **Cloud Architecture** - AWS, Azure multi-cloud deployments
 - **AI/ML Integration** - Vector embeddings, semantic search, automated ML pipelines
+- **Autonomous Agents** - Building and exploring AI-driven agent systems
 - **Technical Leadership** - Team lead experience with end-to-end delivery ownership
 
 ## 📊 GitHub Stats
@@ -167,7 +169,7 @@ Guru Nanak Dev University, Amritsar (2011-2015)
 
 - 💼 **LinkedIn:** [ankitsharma581](https://www.linkedin.com/in/ankitsharma581/)
 - 📧 **Email:** ankitsharma581@gmail.com
-- 💬 **Ask me about:** Distributed Systems, Supply Chain Tech, Payment Systems, Big Data, Optimization Algorithms
+- 💬 **Ask me about:** Distributed Systems, Supply Chain Tech, Payment Systems, Big Data, Optimization Algorithms, AI Agents
 - 📍 **Location:** Bengaluru, India
 
 ## ⚡ Fun Fact
