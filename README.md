@@ -163,7 +163,7 @@ Data migration utilities and tools for various use cases.
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Science**
-Guru Nanak Dev University, Amritsar (2011-2015)
+Guru Nanak Dev University, Amritsar
 
 ## 🤝 Let's Connect
 
