@@ -152,11 +152,11 @@ Data migration utilities and tools for various use cases.
 
 <div align="center">
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=allincodec&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=allincodec&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allincodec&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allincodec&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allincodec&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=allincodec&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
