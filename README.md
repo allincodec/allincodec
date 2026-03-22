@@ -1,4 +1,4 @@
-# Hi there, I'm Ankit Sharma 👋
+[# Hi there, I'm Ankit Sharma 👋
 
 [![LinkedIn](https://img.shields.io/badge/-ankitsharma581-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsharma581/)
 [![GitHub followers](https://img.shields.io/github/followers/allincodec?label=Follow&style=social)](https://github.com/allincodec)
@@ -185,3 +185,4 @@ From processing **9 Billion/month in payments** to optimizing **30K daily supply
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=allincodec.allincodec)
 
 </div>
+](https://github.com/allincodec)
