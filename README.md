@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-**Senior Software Engineer** | 10+ Years of Experience | Technical Lead
+**Software Engineer** | 10+ Years of Experience | Technical Lead
 
 I'm a seasoned software engineer with **10+ years of experience** building highly distributed, scalable, secured, and performant systems from scratch. I've led teams as a **Technical Lead** and specialize in solving complex problems in **supply chain optimization**, **payment systems**, and **big data engineering**.
 
